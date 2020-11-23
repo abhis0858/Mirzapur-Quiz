@@ -90,6 +90,6 @@ for(var i=0;i<questions.length;i++){
       }else{
         console.log("Go and watch both the seasons again");
       }
-    
+  console.log("quiz successfully ended");
     
  
