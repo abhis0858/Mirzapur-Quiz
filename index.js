@@ -85,7 +85,7 @@ for(var i=0;i<questions.length;i++){
  
       console.log("Congratulations " + userName + " you scored " + (score/questions.length)*100 +"% ");
 
-      if((score/questions.length)*100 >= 95){
+      if((score/questions.length)*100 >= 90){
         console.log("You are true Mirzapur Fan");
       }else{
         console.log("Go and watch both the seasons again");
